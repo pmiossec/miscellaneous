@@ -1,0 +1,6 @@
+Differents things and notes on programming / Différentes astuces et notes de programmation
+
+c# :
+- Calendar.cs : Calendar of french holidays / Calendrier des jours fériers français
+- PropertyHelper.cs : Helper to get name of a property without reflexion and with lamba expressions
+- EnumHelper.cs : Parse an enum
