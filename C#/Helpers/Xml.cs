@@ -7,7 +7,7 @@ using System.Xml.Schema;
 using System.Xml.XPath;
 #endregion
 
-namespace Xml.Process
+namespace Helper.Xml
 {
     internal class Xml
     {

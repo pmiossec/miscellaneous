@@ -5,7 +5,7 @@ using System.IO.Compression;
 using ICSharpCode.SharpZipLib.Zip;
 #endregion
 
-namespace Compression
+namespace Helper.Compression
 {
     /// <summary>
     /// Compression/Décompression de fichiers et flux
